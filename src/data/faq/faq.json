@@ -1,0 +1,37 @@
+[
+  {
+    "title": "What are the benefits of creating an Account?",
+    "content": "There are several benefits of creating an Account including:Your billing / shipping information will be saved, and checkout will be faster.You will be able to view your previous Order history.Account holders will remain up to date with latest promotions & newsletters.",
+    "id": "1"
+  },
+  {
+    "title": "I have forgotten my password",
+    "content": "Click on (put the link) enter your email address and click on ‘Reset My Password. Click on the link you receive on your email address and enter your new password.",
+    "id": "2"
+  },
+  {
+    "title": "How do I get sale or promotional messages from meeraki?",
+    "content":"To receive promotional messages or emails, please create an account (put the link).Orders: 1. How can I place an Order? Select your products from the khaadi.com website and click Add to Bag. Once you have added all your desired items to your Shopping Bag, follow these instructions: If you are a registered customer Make sure you are signed in using the (put the link) link. Click on the ‘Shopping Bag’ button and proceed to checkout. Select address and click Next. Select payment method. If you are not a registered customer, Click on the ‘Shopping Bag’ button and proceed to checkout. Enter all your required shipping and billing information. 2. How do I search for an item on the website? Click on the search icon placed on the top right of the website. Enter the item code you are looking for and press Enter on your keyboard. 3. Is there a sizing chart available? Size chart is available on the website for all the products and will be made available for the rest of the regional websites as well.",
+    "id": "3"
+  },
+  {
+    "title": "How will I know if meeraki has received my Order?",
+    "content": "The Sales Order Summary emailed to you is a confirmation that your Order has been received. If you do not get this email, please contact (put the link)",
+    "id": "4"
+  },
+  {
+    "title": "Can I modify an Order after placing it",
+    "content": "    Unfortunately, it is not possible to make changes to an Order once the Order has been placed. However, if your Order has not been Processed, you can cancel it and place a new Order. Click on the (put the link) link to check the status of your Order.",
+    "id": "5"
+  },
+  {
+    "title": "How can I check the status of my Order?",
+    "content": "You click on the (put the link) link to track the status of your Order.",
+    "id": "6"
+  },
+  {
+    "title": "How do I cancel my order?",
+    "content": "To cancel any order customers are advised to contact us via email at (put the link) or on(put the link) . We urge customers to request cancellation as soon as possible. We can process cancellation for items which are yet to dispatch.    If an item has been dispatched, then the cancellation cannot be processed. All cancellation requests will be assessed by a customer service representative prior to processing the request. Email: (put the link),Only the orders that are yet to be dispatched can be cancelled.",
+    "id": "7"
+  }
+]

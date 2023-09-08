@@ -1,0 +1,60 @@
+[
+  {
+    "title": "LINKS",
+    "navLinks": [
+      {
+        "name": "Privacy Policy",
+        "path": "/privacy"
+      },
+      {
+        "name": "Delivery Policy",
+        "path": "/DeliveryPolicy"
+      },
+      {
+        "name": "Return Policy",
+        "path": "/ReturnPolicy"
+      },
+      {
+        "name": "Terms and Conditions",
+        "path": "/terms"
+      },
+      {
+        "name": "About",
+        "path": "/about"
+      },
+      {
+        "name": "FAQ's",
+        "path": "/faq"
+      },
+      {
+        "name": "Contact Details",
+        "path": "/contact"
+      }
+    ]
+  },
+  {
+    "title": "MY ACCOUNT",
+    "navLinks": [
+      {
+        "name": "Login",
+        "path": "/login"
+      },
+      {
+        "name": "Sign up",
+        "path": "/registration"
+      },
+      {
+        "name": "Order History",
+        "path": "/purchase_history"
+      },
+      {
+        "name": "My Wishlist",
+        "path": "/wishlist"
+      },
+      {
+        "name": "Track Order",
+        "path": "/trackOrder"
+      }
+    ]
+  }
+]
